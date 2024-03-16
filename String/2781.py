@@ -17,7 +17,18 @@ class Solution:
         return self.encode(word, forbidden)
 
     def encode(self, word: str, forbidden: List[str]) -> int:
-        return 0
+        forbidden = set(forbidden) # use hash to improve string comparison
+        res = 0
+        right = len(word)
+        for left in range(len(word)-1, -1, -1):
+            # notice that 1 < len(forbidden[i]) <= 10
+            for k in range(left, min(right, left + 10)):
+                if word[left: k+1] in forbidden:
+                    right = k
+                    break
+            res = max(res, right - left)
+        return res
+        
 
     def slidingWindow(self, word: str, forbidden: List[str]) -> int:
         # len(word) = n, len(forbidden) = m, Time Complexity: O(nm)
