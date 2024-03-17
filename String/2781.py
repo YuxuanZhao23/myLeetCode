@@ -14,9 +14,21 @@ class Solution:
         # timeout
         # return self.slidingWindow(word, forbidden)
 
-        return self.encode(word, forbidden)
+        return self.rightToLeft(word, forbidden)
+    
+    def leftToRight(self, word: str, forbidden: List[str]) -> int:
+        forbidden = set(forbidden)
+        left = res = 0
+        for right in range(1, len(word)+1):
+            for start in range(right, max(right-10, left), -1):
+                if word[start-1:right] in forbidden:
+                    left = start
+                    break
+            res = max(res, right - left)
+        return res
 
-    def encode(self, word: str, forbidden: List[str]) -> int:
+
+    def rightToLeft(self, word: str, forbidden: List[str]) -> int:
         forbidden = set(forbidden) # use hash to improve string comparison
         res = 0
         right = len(word)
