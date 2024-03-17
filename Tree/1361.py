@@ -12,21 +12,24 @@ class Solution:
         # find the root (who is not a left child or a right child of any node)
         notChild = set([i for i in range(n)])
         for lc in leftChild:
-            if lc != -1 and lc in notChild: notChild.remove(lc)
+            if lc != -1:
+                if lc in notChild: notChild.remove(lc)
+                else: return False
         for rc in rightChild:
-            if rc != -1 and rc in notChild: notChild.remove(rc)
+            if rc != -1:
+                if rc in notChild: notChild.remove(rc)
+                else: return False
         # only start BFS when we find one root
         if len(notChild) == 1:
-            visited = set()
+            visited = 0
             q = deque([notChild.pop()])
             while q:
                 i = q.popleft()
-                if i in visited: return False
-                visited.add(i)
+                visited += 1
                 if leftChild[i] != -1:
                     q.append(leftChild[i])
                 if rightChild[i] != -1:
                     q.append(rightChild[i])
-            return len(visited) == n
+            return visited == n
         else:
             return False
