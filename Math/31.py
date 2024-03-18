@@ -12,6 +12,8 @@
 
 # Similar Question: 556
 
+from ast import List
+
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
         if nums == None or len(nums) == 0: return
