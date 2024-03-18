@@ -4,9 +4,6 @@
 
 # Note that the nodes have no values and that we only use the node numbers in this problem.
 
-from ast import List
-from collections import deque
-
 class Solution:
     def validateBinaryTreeNodes(self, n: int, leftChild: List[int], rightChild: List[int]) -> bool:
         # find the root (who is not a left child or a right child of any node)

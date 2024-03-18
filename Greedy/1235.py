@@ -5,8 +5,6 @@
 # If you choose a job that ends at time X you will be able to start another job that starts at time X.
 
 # 不相交区间 => 按 end time 排序
-from collections import deque
-from typing import List
 
 def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
         intervals = [(endTime[i], i) for i in range(len(endTime))]

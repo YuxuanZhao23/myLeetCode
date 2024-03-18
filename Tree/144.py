@@ -1,11 +1,6 @@
 # Given the root of a binary tree, return the preorder traversal of its nodes' values.
 # https://leetcode.com/problems/binary-tree-preorder-traversal/
 
-from ast import List
-from collections import deque
-from typing import Optional
-
-
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val

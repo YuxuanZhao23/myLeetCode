@@ -6,9 +6,6 @@
 
 # A substring is a contiguous sequence of characters in a string, possibly empty.
 
-from ast import List
-
-
 class Solution:
     def longestValidSubstring(self, word: str, forbidden: List[str]) -> int:
         # timeout

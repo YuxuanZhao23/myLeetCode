@@ -14,8 +14,6 @@
 # return res
 # If res matches the expected flattened list, then your code will be judged as correct.
 
-from collections import deque
-
 class NestedIterator:
     def __init__(self, nestedList: [NestedInteger]):
         self.flatten = deque(nestedList)

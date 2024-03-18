@@ -9,8 +9,6 @@
 # int getMin() retrieves the minimum element in the stack.
 # You must implement a solution with O(1) time complexity for each function.
 
-from collections import deque
-
 class MinStack:
 
     def __init__(self):

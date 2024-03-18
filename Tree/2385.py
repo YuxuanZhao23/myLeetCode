@@ -6,9 +6,6 @@
 # The node is adjacent to an infected node.
 # Return the number of minutes needed for the entire tree to be infected.
 
-from collections import defaultdict, deque
-from typing import Optional
-
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
