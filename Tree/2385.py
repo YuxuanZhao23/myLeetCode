@@ -17,6 +17,7 @@ class TreeNode:
 
 class Solution:
     def amountOfTime(self, root: Optional[TreeNode], start: int) -> int:
+        # convert to a undirected graph
         adj = defaultdict(list)
         q = deque([root])
         while q:
@@ -30,6 +31,7 @@ class Solution:
                 adj[n.right.val].append(n.val)
                 q.append(n.right)
 
+        # BFS with HashSet
         q = deque([(start, 0)])
         res = 0
         visited = set()
