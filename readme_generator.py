@@ -3,6 +3,8 @@ import os
 def generate_hierarchy(directory, indent=''):
     content = ''
     for item in os.listdir(directory):
+        if item == "readme_generator.py" or item == "README.md":  # Skip readme_generator.py and README.md
+            continue
         if item == ".git":  # Skip .git directory
             continue
         item_path = os.path.join(directory, item)

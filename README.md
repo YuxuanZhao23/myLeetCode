@@ -14,8 +14,6 @@
   - 📄 343.ipynb
   - 📄 621.ipynb
   - 📄 31.png
-- 📄 readme_generator.py
-- 📄 README.md
 - 📁 Greedy
   - 📄 452.ipynb
   - 📄 1235.ipynb
