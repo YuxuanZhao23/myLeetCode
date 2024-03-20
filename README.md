@@ -1,3 +1,34 @@
-# myLeetCode
+# Directory Structure
 
-
+- 📁 Tree
+  - 📄 1361.py
+  - 📄 144.py
+  - 📄 958.py
+  - 📄 2385.py
+- 📁 DFS
+  - 📄 341.ipynb
+- 📁 Prefix
+  - 📄 525.ipynb
+- 📁 Math
+  - 📄 31(556).ipynb
+  - 📄 343.ipynb
+  - 📄 621.ipynb
+  - 📄 31.png
+- 📄 readme_generator.py
+- 📄 README.md
+- 📁 Greedy
+  - 📄 452.ipynb
+  - 📄 1235.ipynb
+- 📁 Counting Sort
+  - 📄 1481.ipynb
+- 📁 String
+  - 📄 2781.py
+  - 📄 2038.py
+  - 📄 880.py
+- 📁 Stack
+  - 📄 173.ipynb
+  - 📄 155.ipynb
+- 📁 Linked List
+  - 📄 1669.png
+  - 📄 1669.ipynb
+  - 📄 2.ipynb
