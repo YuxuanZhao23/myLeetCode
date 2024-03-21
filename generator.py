@@ -20,7 +20,7 @@ def generate_hierarchy(directory, indent=''):
     return content
 
 def generate_readme(directory):
-    readme_content = f"# Directory Structure\n\n{generate_hierarchy(directory)}"
+    readme_content = f"# My LeetCode\n\n{generate_hierarchy(directory)}"
     with open(os.path.join(directory, 'README.md'), 'w') as readme_file:
         readme_file.write(readme_content)
 
