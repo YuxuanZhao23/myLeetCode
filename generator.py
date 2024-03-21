@@ -15,6 +15,7 @@ def generate_hierarchy(directory, indent=''):
             d = directory.split('/')
             d = d[-1].replace(' ', '%20')
             link_item = item.replace(' ', '%20')
+            item = item[:-6]
             content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main/{d}/{link_item})\n"
     return content
 
