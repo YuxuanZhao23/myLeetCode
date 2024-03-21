@@ -15,7 +15,6 @@
   - 📄 [343.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/343.ipynb)
   - 📄 [621.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/621.ipynb)
   - 📄 [31.png](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/31.png)
-- 📄 [generator.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/myLeetCode/generator.py)
 - 📁 Greedy
   - 📄 [452.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/452.ipynb)
   - 📄 [1235.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/1235.ipynb)
