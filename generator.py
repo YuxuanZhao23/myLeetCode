@@ -12,9 +12,6 @@ def generate_hierarchy(directory, indent=''):
             content += f"{indent}- 📁 {item}\n"
             content += generate_hierarchy(item_path, indent + '  ')
         else:
-            # https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.ipynb
-            # [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)
-            # print(item_path, directory)
             d = directory.split('/')
             content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main/{d[-1]}/{item})\n"
     return content
