@@ -15,10 +15,8 @@ def generate_hierarchy(directory, indent=''):
             # https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.ipynb
             # [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)
             # print(item_path, directory)
-            for i in range(len(directory)-1, -1, -1):
-                if i == '/':
-                    break
-            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main{directory[i:]}/{item})\n"
+            d = directory.split('/')
+            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main{d[-1]}/{item})\n"
     return content
 
 def generate_readme(directory):
