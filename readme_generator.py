@@ -16,7 +16,7 @@ def generate_hierarchy(directory, indent=''):
             # [011.Container-With-Most-Water](https://github.com/wisdompeak/LeetCode/tree/master/Two_Pointers/011.Container-With-Most-Water)
             # print(item_path, directory)
             d = directory.split('/')
-            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main{d[-1]}/{item})\n"
+            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main/{d[-1]}/{item})\n"
     return content
 
 def generate_readme(directory):
