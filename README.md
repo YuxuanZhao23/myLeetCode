@@ -6,28 +6,28 @@
   - 📄 [958.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/958.py)
   - 📄 [2385.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/2385.py)
 - 📁 DFS
-  - 📄 [341.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.ipynb)
+  - 📄 [341. Flatten Nested List Iterator.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
 - 📁 Prefix
-  - 📄 [525.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Prefix/525.ipynb)
+  - 📄 [525. Contiguous Array.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Prefix/525.%20Contiguous%20Array.ipynb)
 - 📁 Math
-  - 📄 [880.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/880.ipynb)
-  - 📄 [31(556).ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/31(556).ipynb)
-  - 📄 [343.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/343.ipynb)
-  - 📄 [621.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/621.ipynb)
+  - 📄 [343. Integer Break.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/343.%20Integer%20Break.ipynb)
+  - 📄 [621. Task Scheduler.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/621.%20Task%20Scheduler.ipynb)
   - 📄 [31.png](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/31.png)
+  - 📄 [880. Decoded String at Index.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/880.%20Decoded%20String%20at%20Index.ipynb)
+  - 📄 [31. Next Permutation.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/31.%20Next%20Permutation.ipynb)
 - 📁 Greedy
-  - 📄 [452.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/452.ipynb)
-  - 📄 [1235.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/1235.ipynb)
+  - 📄 [1235. Maximum Profit in Job Scheduling.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.ipynb)
+  - 📄 [452. Minimum Number of Arrows to Burst Balloons.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.ipynb)
 - 📁 Counting Sort
   - 📄 [1481. Least Number of Unique Integers after K Removals.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Counting%20Sort/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.ipynb)
 - 📁 String
   - 📄 [2781.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2781.py)
   - 📄 [2038.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2038.py)
 - 📁 Stack
-  - 📄 [173.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.ipynb)
-  - 📄 [155.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.ipynb)
+  - 📄 [155. Min Stack.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
+  - 📄 [173. Binary Search Tree Iterator.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
 - 📁 Linked List
-  - 📄 [138.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.ipynb)
   - 📄 [1669.png](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/1669.png)
-  - 📄 [1669.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/1669.ipynb)
-  - 📄 [2.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/2.ipynb)
+  - 📄 [1669. Merge In Between Linked Lists.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.ipynb)
+  - 📄 [2. Add Two Numbers.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.ipynb)
+  - 📄 [138. Copy List with Random Pointer.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
