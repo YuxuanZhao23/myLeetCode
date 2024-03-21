@@ -19,7 +19,7 @@
   - 📄 [452.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/452.ipynb)
   - 📄 [1235.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/1235.ipynb)
 - 📁 Counting Sort
-  - 📄 [1481.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Counting%20Sort/1481.ipynb)
+  - 📄 [1481. Least Number of Unique Integers after K Removals.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Counting%20Sort/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.ipynb)
 - 📁 String
   - 📄 [2781.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2781.py)
   - 📄 [2038.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2038.py)
