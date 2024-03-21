@@ -1,32 +1,32 @@
 # Directory Structure
 
 - 📁 Tree
-  - 📄 1361.py
-  - 📄 144.py
-  - 📄 958.py
-  - 📄 2385.py
+  - 📄 [1361.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Tree/1361.py)
+  - 📄 [144.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Tree/144.py)
+  - 📄 [958.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Tree/958.py)
+  - 📄 [2385.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Tree/2385.py)
+- 📁 Counting_Sort
+  - 📄 [1481.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Counting_Sort/1481.ipynb)
 - 📁 DFS
-  - 📄 341.ipynb
+  - 📄 [341.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/DFS/341.ipynb)
 - 📁 Prefix
-  - 📄 525.ipynb
+  - 📄 [525.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Prefix/525.ipynb)
+- 📁 Linked_List
+  - 📄 [1669.png](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Linked_List/1669.png)
+  - 📄 [1669.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Linked_List/1669.ipynb)
+  - 📄 [2.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Linked_List/2.ipynb)
 - 📁 Math
-  - 📄 31(556).ipynb
-  - 📄 343.ipynb
-  - 📄 621.ipynb
-  - 📄 31.png
+  - 📄 [31(556).ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Math/31(556).ipynb)
+  - 📄 [343.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Math/343.ipynb)
+  - 📄 [621.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Math/621.ipynb)
+  - 📄 [31.png](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Math/31.png)
 - 📁 Greedy
-  - 📄 452.ipynb
-  - 📄 1235.ipynb
-- 📁 Counting Sort
-  - 📄 1481.ipynb
+  - 📄 [452.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Greedy/452.ipynb)
+  - 📄 [1235.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Greedy/1235.ipynb)
 - 📁 String
-  - 📄 2781.py
-  - 📄 2038.py
-  - 📄 880.py
+  - 📄 [2781.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/String/2781.py)
+  - 📄 [2038.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/String/2038.py)
+  - 📄 [880.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/String/880.py)
 - 📁 Stack
-  - 📄 173.ipynb
-  - 📄 155.ipynb
-- 📁 Linked List
-  - 📄 1669.png
-  - 📄 1669.ipynb
-  - 📄 2.ipynb
+  - 📄 [173.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Stack/173.ipynb)
+  - 📄 [155.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Users/yuxuanzhao/myLeetCode/Stack/155.ipynb)
