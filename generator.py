@@ -13,7 +13,8 @@ def generate_hierarchy(directory, indent=''):
             content += generate_hierarchy(item_path, indent + '  ')
         else:
             d = directory.split('/')
-            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main/{d[-1]}/{item})\n"
+            # space to %20
+            content += f"{indent}- 📄 [{item}](https://github.com/YuxuanZhao23/myLeetCode/blob/main/{d[-1]}/{item})\n".replace(' ', '%20')
     return content
 
 def generate_readme(directory):
