@@ -26,6 +26,7 @@
   - 📄 [155. Min Stack](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
   - 📄 [173. Binary Search Tree Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
 - 📁 Linked List
+  - 📄 [206. Reverse Linked List](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.ipynb)
   - 📄 [1669. Merge In Between Linked Lists](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.ipynb)
   - 📄 [2. Add Two Numbers](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.ipynb)
   - 📄 [138. Copy List with Random Pointer](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
