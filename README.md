@@ -1,6 +1,7 @@
 # My LeetCode
 
 - 📁 Tree
+  - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
 - 📁 DFS
   - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
 - 📁 Prefix
@@ -16,6 +17,8 @@
 - 📁 Counting Sort
   - 📄 [1481. Least Number of Unique Integers after K Removals](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Counting%20Sort/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.ipynb)
 - 📁 String
+  - 📄 [2781. Length of the Longest Valid Substring](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2781.%20Length%20of%20the%20Longest%20Valid%20Substring.ipynb)
+  - 📄 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.ipynb)
 - 📁 Stack
   - 📄 [155. Min Stack](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
   - 📄 [173. Binary Search Tree Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
