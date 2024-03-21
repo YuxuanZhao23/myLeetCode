@@ -2,8 +2,11 @@
 
 - 📁 Tree
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
-- 📁 DFS
-  - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
+  - 📄 [2385. Amount of Time for Binary Tree to Be Infected](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.ipynb)
+  - 📄 [958. Check Completeness of a Binary Tree](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.ipynb)
+  - 📄 [1361. Validate Binary Tree Nodes](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/1361.%20Validate%20Binary%20Tree%20Nodes.ipynb)
+- 📁 Recursion
+  - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Recursion/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
 - 📁 Prefix
   - 📄 [525. Contiguous Array](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Prefix/525.%20Contiguous%20Array.ipynb)
 - 📁 Math
