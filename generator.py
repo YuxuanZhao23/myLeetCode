@@ -3,7 +3,7 @@ import os
 def generate_hierarchy(directory, indent=''):
     content = ''
     for item in os.listdir(directory):
-        if '.png' in item:
+        if ".py" in item or ".md" in item or ".png" in item:
             continue
         if item == ".git":
             continue

@@ -1,10 +1,6 @@
 # Directory Structure
 
 - 📁 Tree
-  - 📄 [1361.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/1361.py)
-  - 📄 [144.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/144.py)
-  - 📄 [958.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/958.py)
-  - 📄 [2385.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/2385.py)
 - 📁 DFS
   - 📄 [341. Flatten Nested List Iterator.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/DFS/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
 - 📁 Prefix
@@ -14,16 +10,12 @@
   - 📄 [621. Task Scheduler.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/621.%20Task%20Scheduler.ipynb)
   - 📄 [880. Decoded String at Index.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/880.%20Decoded%20String%20at%20Index.ipynb)
   - 📄 [31. Next Permutation.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Math/31.%20Next%20Permutation.ipynb)
-- 📄 [README.md](https://github.com/YuxuanZhao23/myLeetCode/blob/main/myLeetCode/README.md)
-- 📄 [generator.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/myLeetCode/generator.py)
 - 📁 Greedy
   - 📄 [1235. Maximum Profit in Job Scheduling.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.ipynb)
   - 📄 [452. Minimum Number of Arrows to Burst Balloons.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Greedy/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.ipynb)
 - 📁 Counting Sort
   - 📄 [1481. Least Number of Unique Integers after K Removals.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Counting%20Sort/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.ipynb)
 - 📁 String
-  - 📄 [2781.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2781.py)
-  - 📄 [2038.py](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2038.py)
 - 📁 Stack
   - 📄 [155. Min Stack.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
   - 📄 [173. Binary Search Tree Iterator.ipynb](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
