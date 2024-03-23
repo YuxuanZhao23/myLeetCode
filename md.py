@@ -25,7 +25,7 @@ def generate_hierarchy(directory, indent=''):
 
 def generate_readme(directory):
     content, count = generate_hierarchy(directory)
-    readme_content = f"# My LeetCode\n\n{content}\nYou have finished {count} LeetCode questions, keep it going!"
+    readme_content = f"#You have finished {count} LeetCode questions, keep it going!\n\n{content}\n"
     with open(os.path.join(directory, 'README.md'), 'w') as readme_file:
         readme_file.write(readme_content)
 if __name__ == "__main__":

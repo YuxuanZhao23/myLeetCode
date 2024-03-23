@@ -1,4 +1,4 @@
-# My LeetCode
+#You have finished 24 LeetCode questions, keep it going!
 
 - 📁 Tree
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
@@ -34,4 +34,3 @@
   - 📄 [138. Copy List with Random Pointer](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
   - 📄 [143. Reorder List](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/143.%20Reorder%20List.ipynb)
 
-You have finished 24 LeetCode questions, keep it going!
