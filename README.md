@@ -1,4 +1,4 @@
-#You have finished 24 LeetCode questions, keep it going!
+# You have finished 24 LeetCode questions!
 
 - 📁 Tree
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
