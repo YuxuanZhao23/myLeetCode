@@ -33,3 +33,5 @@
   - 📄 [2. Add Two Numbers](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.ipynb)
   - 📄 [138. Copy List with Random Pointer](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
   - 📄 [143. Reorder List](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/143.%20Reorder%20List.ipynb)
+
+You have finished 24 LeetCode questions, keep it going!
