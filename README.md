@@ -22,6 +22,7 @@
 - 📁 String
   - 📄 [2781. Length of the Longest Valid Substring](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2781.%20Length%20of%20the%20Longest%20Valid%20Substring.ipynb)
   - 📄 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.ipynb)
+  - 📄 [1119. Remove Vowels from a String](https://github.com/YuxuanZhao23/myLeetCode/blob/main/String/1119.%20Remove%20Vowels%20from%20a%20String.ipynb)
 - 📁 Stack
   - 📄 [155. Min Stack](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
   - 📄 [173. Binary Search Tree Iterator](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
