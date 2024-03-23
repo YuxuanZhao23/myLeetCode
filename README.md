@@ -31,3 +31,4 @@
   - 📄 [1669. Merge In Between Linked Lists](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.ipynb)
   - 📄 [2. Add Two Numbers](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.ipynb)
   - 📄 [138. Copy List with Random Pointer](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
+  - 📄 [143. Reorder List](https://github.com/YuxuanZhao23/myLeetCode/blob/main/Linked%20List/143.%20Reorder%20List.ipynb)
