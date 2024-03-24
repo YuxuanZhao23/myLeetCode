@@ -1,4 +1,4 @@
-# You have finished 24 LeetCode questions!
+# You have finished 25 LeetCode questions!
 
 - 📁 Tree
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
@@ -29,6 +29,7 @@
 - 📁 Linked List
   - 📄 [206. Reverse Linked List](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.ipynb)
   - 📄 [234. Palindrome Linked List](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.ipynb)
+  - 📄 [287. Find the Duplicate Number](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/287.%20Find%20the%20Duplicate%20Number.ipynb)
   - 📄 [1669. Merge In Between Linked Lists](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/1669.%20Merge%20In%20Between%20Linked%20Lists.ipynb)
   - 📄 [2. Add Two Numbers](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/2.%20Add%20Two%20Numbers.ipynb)
   - 📄 [138. Copy List with Random Pointer](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)
