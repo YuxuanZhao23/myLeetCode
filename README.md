@@ -1,4 +1,4 @@
-# You have finished 26 LeetCode questions!
+# You have finished 27 LeetCode questions!
 
 - 📁 Tree
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
@@ -7,6 +7,8 @@
   - 📄 [1361. Validate Binary Tree Nodes](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/1361.%20Validate%20Binary%20Tree%20Nodes.ipynb)
 - 📁 Recursion
   - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/LeetCode/blob/main/Recursion/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
+- 📁 Binary Search
+  - 📄 [3091. Apply Operations to Make Sum of Array Greater Than or Equal to k](https://github.com/YuxuanZhao23/LeetCode/blob/main/Binary%20Search/3091.%20Apply%20Operations%20to%20Make%20Sum%20of%20Array%20Greater%20Than%20or%20Equal%20to%20k.ipynb)
 - 📁 Prefix
   - 📄 [525. Contiguous Array](https://github.com/YuxuanZhao23/LeetCode/blob/main/Prefix/525.%20Contiguous%20Array.ipynb)
 - 📁 Math
