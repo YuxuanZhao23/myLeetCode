@@ -10,7 +10,7 @@ def generate_hierarchy(directory, indent=''):
             continue
         item_path = os.path.join(directory, item)
         if os.path.isdir(item_path):
-            content += f"{indent}- 📁 {item}\n"
+            content += f"{indent}- 📁 {item} 📁\n"
             new_content, new_count = generate_hierarchy(item_path, indent + '  ')
             content += new_content
             count += new_count
