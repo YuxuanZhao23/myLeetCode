@@ -1,4 +1,4 @@
-# You have finished 30 LeetCode questions!
+# You have finished 31 LeetCode questions!
 
 - 📁 **Tree**
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
@@ -6,6 +6,7 @@
   - 📄 [958. Check Completeness of a Binary Tree](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.ipynb)
   - 📄 [1361. Validate Binary Tree Nodes](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/1361.%20Validate%20Binary%20Tree%20Nodes.ipynb)
 - 📁 **Cycle Sort**
+  - 📄 [41. First Missing Positive](https://github.com/YuxuanZhao23/LeetCode/blob/main/Cycle%20Sort/41.%20First%20Missing%20Positive.ipynb)
   - 📄 [442. Find All Duplicates in an Array](https://github.com/YuxuanZhao23/LeetCode/blob/main/Cycle%20Sort/442.%20Find%20All%20Duplicates%20in%20an%20Array.ipynb)
 - 📁 **Recursion**
   - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/LeetCode/blob/main/Recursion/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
