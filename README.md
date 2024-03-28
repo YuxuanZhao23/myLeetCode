@@ -1,45 +1,45 @@
 # You have finished 34 LeetCode questions!
 
-- 📁 **Tree**
+- 📁 *Tree*
   - 📄 [144. Binary Tree Preorder Traversal](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/144.%20Binary%20Tree%20Preorder%20Traversal.ipynb)
   - 📄 [2385. Amount of Time for Binary Tree to Be Infected](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/2385.%20Amount%20of%20Time%20for%20Binary%20Tree%20to%20Be%20Infected.ipynb)
   - 📄 [958. Check Completeness of a Binary Tree](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/958.%20Check%20Completeness%20of%20a%20Binary%20Tree.ipynb)
   - 📄 [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.ipynb)
   - 📄 [1361. Validate Binary Tree Nodes](https://github.com/YuxuanZhao23/LeetCode/blob/main/Tree/1361.%20Validate%20Binary%20Tree%20Nodes.ipynb)
-- 📁 **Cycle Sort**
+- 📁 *Cycle Sort*
   - 📄 [41. First Missing Positive](https://github.com/YuxuanZhao23/LeetCode/blob/main/Cycle%20Sort/41.%20First%20Missing%20Positive.ipynb)
   - 📄 [442. Find All Duplicates in an Array](https://github.com/YuxuanZhao23/LeetCode/blob/main/Cycle%20Sort/442.%20Find%20All%20Duplicates%20in%20an%20Array.ipynb)
-- 📁 **Recursion**
+- 📁 *Recursion*
   - 📄 [341. Flatten Nested List Iterator](https://github.com/YuxuanZhao23/LeetCode/blob/main/Recursion/341.%20Flatten%20Nested%20List%20Iterator.ipynb)
-- 📁 **Binary Search**
+- 📁 *Binary Search*
   - 📄 [3091. Apply Operations to Make Sum of Array Greater Than or Equal to k](https://github.com/YuxuanZhao23/LeetCode/blob/main/Binary%20Search/3091.%20Apply%20Operations%20to%20Make%20Sum%20of%20Array%20Greater%20Than%20or%20Equal%20to%20k.ipynb)
-- 📁 **Prefix**
+- 📁 *Prefix*
   - 📄 [525. Contiguous Array](https://github.com/YuxuanZhao23/LeetCode/blob/main/Prefix/525.%20Contiguous%20Array.ipynb)
-- 📁 **Interval**
+- 📁 *Interval*
   - 📄 [1235. Maximum Profit in Job Scheduling](https://github.com/YuxuanZhao23/LeetCode/blob/main/Interval/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.ipynb)
   - 📄 [452. Minimum Number of Arrows to Burst Balloons](https://github.com/YuxuanZhao23/LeetCode/blob/main/Interval/452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.ipynb)
   - 📄 [253. Meeting Rooms II](https://github.com/YuxuanZhao23/LeetCode/blob/main/Interval/253.%20Meeting%20Rooms%20II.ipynb)
-- 📁 **Math**
+- 📁 *Math*
   - 📄 [343. Integer Break](https://github.com/YuxuanZhao23/LeetCode/blob/main/Math/343.%20Integer%20Break.ipynb)
   - 📄 [621. Task Scheduler](https://github.com/YuxuanZhao23/LeetCode/blob/main/Math/621.%20Task%20Scheduler.ipynb)
   - 📄 [880. Decoded String at Index](https://github.com/YuxuanZhao23/LeetCode/blob/main/Math/880.%20Decoded%20String%20at%20Index.ipynb)
   - 📄 [31. Next Permutation](https://github.com/YuxuanZhao23/LeetCode/blob/main/Math/31.%20Next%20Permutation.ipynb)
-- 📁 **Sliding Window**
+- 📁 *Sliding Window*
   - 📄 [713. Subarray Product Less Than K](https://github.com/YuxuanZhao23/LeetCode/blob/main/Sliding%20Window/713.%20Subarray%20Product%20Less%20Than%20K.ipynb)
   - 📄 [3090. Maximum Length Substring With Two Occurrences](https://github.com/YuxuanZhao23/LeetCode/blob/main/Sliding%20Window/3090.%20Maximum%20Length%20Substring%20With%20Two%20Occurrences.ipynb)
   - 📄 [2958. Length of Longest Subarray With at Most K Frequency](https://github.com/YuxuanZhao23/LeetCode/blob/main/Sliding%20Window/2958.%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency.ipynb)
-- 📁 **Heap**
+- 📁 *Heap*
   - 📄 [3092. Most Frequent IDs](https://github.com/YuxuanZhao23/LeetCode/blob/main/Heap/3092.%20Most%20Frequent%20IDs.ipynb)
-- 📁 **Counting Sort**
+- 📁 *Counting Sort*
   - 📄 [1481. Least Number of Unique Integers after K Removals](https://github.com/YuxuanZhao23/LeetCode/blob/main/Counting%20Sort/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals.ipynb)
-- 📁 **String**
+- 📁 *String*
   - 📄 [2781. Length of the Longest Valid Substring](https://github.com/YuxuanZhao23/LeetCode/blob/main/String/2781.%20Length%20of%20the%20Longest%20Valid%20Substring.ipynb)
   - 📄 [2038. Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/YuxuanZhao23/LeetCode/blob/main/String/2038.%20Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.ipynb)
   - 📄 [1119. Remove Vowels from a String](https://github.com/YuxuanZhao23/LeetCode/blob/main/String/1119.%20Remove%20Vowels%20from%20a%20String.ipynb)
-- 📁 **Stack**
+- 📁 *Stack*
   - 📄 [155. Min Stack](https://github.com/YuxuanZhao23/LeetCode/blob/main/Stack/155.%20Min%20Stack.ipynb)
   - 📄 [173. Binary Search Tree Iterator](https://github.com/YuxuanZhao23/LeetCode/blob/main/Stack/173.%20Binary%20Search%20Tree%20Iterator.ipynb)
-- 📁 **Linked List**
+- 📁 *Linked List*
   - 📄 [206. Reverse Linked List](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/206.%20Reverse%20Linked%20List.ipynb)
   - 📄 [234. Palindrome Linked List](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/234.%20Palindrome%20Linked%20List.ipynb)
   - 📄 [287. Find the Duplicate Number](https://github.com/YuxuanZhao23/LeetCode/blob/main/Linked%20List/287.%20Find%20the%20Duplicate%20Number.ipynb)
